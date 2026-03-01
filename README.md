@@ -4,32 +4,35 @@
 
 ---
 
+## 🖥️ Application Interface Preview
+
 ## 📸 Project Screenshots
 
 <p align="center">
-  <img src="screenshots/pic1.png" width="80%" />
-  <br><b>Upload Page</b>
+  <img src="pic1.png" width="80%" />
+  <br><b>Dashboard</b>
 </p>
 
 <p align="center">
-  <img src="screenshots/pic2.png" width="80%" />
+  <img src="pic2.png" width="80%" />
+  <br><b>Gallery Uploads</b>
+</p>
+
+<p align="center">
+  <img src="pic3.png" width="80%" />
   <br><b>Gallery View</b>
 </p>
 
 <p align="center">
-  <img src="screenshots/pic3.png" width="80%" />
-  <br><b>Lightbox Viewer</b>
+  <img src="pic4.png" width="80%" />
+  <br><b>Session Dashboard — Activity Overview</b>
 </p>
 
 <p align="center">
-  <img src="screenshots/pic4.png" width="80%" />
-  <br><b>Session Dashboard</b>
+  <img src="pic5.png" width="80%" />
+  <br><b>Session Dashboard — Upload Logs</b>
 </p>
-
-<p align="center">
-  <img src="screenshots/pic5.png" width="80%" />
-  <br><b>Mobile Responsive View</b>
-</p>
+<br><br>
 
 ## 📌 Project Objective
 
