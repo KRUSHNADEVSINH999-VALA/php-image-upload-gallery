@@ -1,0 +1,27 @@
+# Uploaded images — do not commit user files
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+uploads/*.gif
+uploads/*.webp
+
+# Keep the uploads directory itself
+!uploads/.htaccess
+!uploads/.gitkeep
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PHP temp
+*.log
