@@ -4,6 +4,33 @@
 
 ---
 
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="screenshots/pic1.png" width="80%" />
+  <br><b>Upload Page</b>
+</p>
+
+<p align="center">
+  <img src="screenshots/pic2.png" width="80%" />
+  <br><b>Gallery View</b>
+</p>
+
+<p align="center">
+  <img src="screenshots/pic3.png" width="80%" />
+  <br><b>Lightbox Viewer</b>
+</p>
+
+<p align="center">
+  <img src="screenshots/pic4.png" width="80%" />
+  <br><b>Session Dashboard</b>
+</p>
+
+<p align="center">
+  <img src="screenshots/pic5.png" width="80%" />
+  <br><b>Mobile Responsive View</b>
+</p>
+
 ## 📌 Project Objective
 
 PixelVault is a secure, fully-featured image upload and gallery application built with **pure PHP, HTML5, CSS3, and Vanilla JavaScript**. Developed as part of a hands-on PHP Activity Learning Assignment, it demonstrates real-world backend development skills including:
