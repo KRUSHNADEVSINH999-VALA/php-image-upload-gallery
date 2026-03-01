@@ -239,10 +239,9 @@ User selects image
 
 | Name | Role |
 |---|---|
-| Member 1 | PHP Backend — upload_handler.php |
-| Member 2 | Frontend — HTML structure, CSS |
-| Member 3 | Session Management — session_info.php |
-| Member 4 | Gallery, Documentation, Testing |
+| KRUSHNADEVSINH - 240905090058 | Frontend — HTML structure, CSS |
+| RUDRADEVSINH - 240905090047| PHP Backend — Session Management |
+
 
 > Update with your actual team member names before submission.
 
